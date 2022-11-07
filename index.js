@@ -31,13 +31,13 @@ PROCESS:
 OUTPUT: Trung bình của 5 số thực
 */ 
 
-// let a = 1.33,
-// b=5.34,
-// c=7.23,
-// d=9.78,
-// e=4.54
+let a = 1.33,
+b=5.34,
+c=7.23,
+d=9.78,
+e=4.54
 
-// console.log((a+b+c+d+e)/5);
+console.log((a+b+c+d+e)/5);
 
 
 //-------------bai3-----------------
